@@ -1,0 +1,127 @@
+body{
+	background-image: url(../img/4.jpg);
+	background-size: cover;
+	background-position: center top; 
+
+}
+
+.result_container{
+	border: 1px solid #000;
+	margin-top: 2%;
+	margin-left: 8%;
+	background-color: #fff;
+}
+.img{
+	margin-top: 10%;
+}
+.utme{
+	font-size: 50px;
+	font-family: arial narrow; 
+	margin-top: 2%;	
+}
+.user_details{
+	font-family: open sans;
+	margin-left: 4%;
+}
+.score{
+	font-family: tahoma;
+	font-size: 18px;
+}
+#bg1{
+	background-color: 	#FFA07A;
+}
+#bg2{
+	background-color: #7CFC00;
+}
+.sub{
+	font-size: 20px;
+	font-family: tahoma;
+}
+.st_score{
+	font-size: 20px;
+	font-family: tahoma;
+
+}
+.form{
+	border:2px solid green;
+	border-radius: 10px;
+	padding: 2%;
+	width: 50%;
+	margin-left: 22%;
+
+}
+.form-control{
+	border: 1px solid green;
+	font-size: 18px;
+
+}
+.texts-left{
+	margin-left: 25%;
+	color: #fff;
+}
+label{
+	font-size: 12px;
+	font-family: tahoma;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #001;
+}
+.text-complete{
+	color: #000;
+	font-size: 18px;
+	margin-left: 20%;
+	text-transform: uppercase;
+	font-family: tahoma;
+
+}
+.login_form{
+	margin-top: 25%;
+	border: 2px solid blue;
+	padding: 4%;
+
+}
+.login_header{
+	font-family: fall is coming;
+	font-size: 40px;
+	
+}
+#particles-js{
+	background-color: #0020C2;
+	color: #fff;
+
+}
+.first_svg{
+	margin-left: 40%;	
+}
+.gif_middle{
+	margin-left: 50%;	
+}
+.alert-center{
+	margin-left: 30%;
+}
+.link{
+	color: #fff;
+}
+.dash_logo{
+	margin-left: 45%;
+}
+.user_details_dash{
+	font-family: open sans;
+	margin-left: 2%;
+	font-size: 14px;
+	text-transform: uppercase;
+}
+.alert_center{
+	margin-left: 35%;
+	border: 2px solid #fff;
+}
+.text-done{
+	color: green;
+	font-size: 18px;
+	margin-left: 20%;
+	text-transform: uppercase;
+	font-family: tahoma;
+}
+
+
+
